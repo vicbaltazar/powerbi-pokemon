@@ -1,7 +1,7 @@
 ## Power BI – Pokémon Pokédex Dashboard
 Dashboard interativo em Power BI construído a partir de uma Pokédex personalizada, com foco em análise de estatísticas base, tipos, gerações, regiões e Pokémon lendários.
 
-Visão geral
+## Visão geral
 Explora Pokémon por tipo, geração, categoria (Comum, Inicial, Evoluído, Lendário) e região.
 
 Destaque para KPIs como total de Pokémon, quantidade de lendários, quantidade de dual type e média de status totais.
