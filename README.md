@@ -55,7 +55,7 @@ Geração
 Região
 
 ## Como abrir o projeto
-Baixe o arquivo .pbix deste repositório.
+Baixe o arquivo.pbix deste repositório.
 
 Abra o arquivo no Power BI Desktop (versão mais recente recomendada).
 
