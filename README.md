@@ -46,7 +46,7 @@ Colunas: Total de Pokémon por Tipo1
 
 Colunas: Média do Total por Tipo1
 
-Segmentadores:
+- Segmentadores:
 
 Legendary (True/False)
 
